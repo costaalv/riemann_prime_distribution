@@ -33,12 +33,14 @@ riemann_prime_distribution/
 ## Download de Arquivos Grandes
 Os arquivos abaixo excedem o limite de 100 MB do GitHub e estão disponíveis para download no Google Drive:
 
-| Nome do Arquivo                   | Tamanho  | Link para Download                                                              |
-|:----------------------------------|:--------:|:--------------------------------------------------------------------------------|
-| `primes_and_gammas_scaled.csv.gz` | 266 MB   | [Download](https://drive.google.com/file/d/1-0PHcFcHdzObvb_--myvaUCKl8scTZn4/view?usp=drive_link)                       |
-| `primes_and_gammas_scaled.csv`    | 707.3 MB | [Download](https://drive.google.com/file/d/1--D15MzLiDaPjmjMDiYTTT5NUDnA_65P/view?usp=drive_link)                       |
-| `gamma_10_million.csv`            | 470.8 MB | [Download](https://drive.google.com/file/d/1ArpHvhtZjPJoTl1vMedLDsyaqNGEURaA/view?usp=drive_link)                       |
-| `primes_10_million.csv`           | 173.9 MB | [Download](https://drive.google.com/file/d/1yQw-bAX_HjsM6-R1lexX_EcUafFSc_0w/view?usp=drive_link)                       |
+| File Name                         | Size     | Download Link                                                                |
+|:----------------------------------|:--------:|:-----------------------------------------------------------------------------|
+| `primes_and_gammas_scaled.csv.gz` | 266.0 MB | [Download](https://drive.google.com/file/d/1-0PHcFcHdzObvb_--myvaUCKl8scTZn4/view?usp=drive_link) |
+| `primes_and_gammas_scaled.csv`    | 707.3 MB | [Download](https://drive.google.com/file/d/1--D15MzLiDaPjmjMDiYTTT5NUDnA_65P/view?usp=drive_link) |
+| `gamma_10_million.csv`            | 470.8 MB | [Download](https://drive.google.com/file/d/1ArpHvhtZjPJoTl1vMedLDsyaqNGEURaA/view?usp=drive_link) |
+| `prime_energy_distribution_1k.csv`| 113.0 MB | [Download](https://drive.google.com/file/d/1-5fm4-x5zPbIg9IQ9fz7mCcyrTTkiChD/view?usp=drive_link) |
+| `prime_energy_distribution_1m.csv'| 109.2 MB | [Download](https://drive.google.com/file/d/1-Gkbu0SIojzNIzINI8EO7qasTDZnv46c/view?usp=drive_link) |
+| `primes_10_million.csv`           | 173.9 MB | [Download](https://drive.google.com/file/d/1yQw-bAX_HjsM6-R1lexX_EcUafFSc_0w/view?usp=drive_link) |
 
 Para utilizar esses arquivos, baixe-os no diretório `data/` local do repositório.
 

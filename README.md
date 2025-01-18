@@ -15,17 +15,17 @@ Below is the folder structure of the repository:
 
 ```
 riemann_prime_distribution/
-├── README.md                # Descrição principal em inglês
+├── README.md                # Main description in English
 ├── docs/
-│   ├── README_PT.md         # Tradução do README para português
-│   └── didactic_article.pdf # Versão didática em português do artigo
-├── src/                     # Código-fonte para análises e simulações
-├── data/                    # Conjuntos de dados usados para validação e análise
-├── figures/                 # Figuras geradas utilizadas no artigo
-├── notebooks/               # Notebooks interativos para exploração
-└── LICENSE                  # Licença do projeto
-```
+│   ├── README_PT.md         # Portuguese translation of the README
+│   └── didactic_article.pdf # Didactic version of the article in Portuguese
+├── src/                     # Source code for analyses and simulations
+├── data/                    # Datasets used for validation and analysis
+├── figures/                 # Figures generated for the article
+├── notebooks/               # Interactive notebooks for exploration
+└── LICENSE                  # Project license
 
+```
 
 ## Resources
 - Article: [Link to the preprint or journal submission (if applicable)]
@@ -34,11 +34,13 @@ riemann_prime_distribution/
 ## Large File Downloads
 The files below exceed GitHub's 100 MB limit and are available for download via Google Drive:
 
-| File Name                       | Size      | Download Link                                                                |
-|:--------------------------------|:---------:|:-----------------------------------------------------------------------------|
-| `primes_and_gammas_scaled.csv.gz` | 266 MB   | [Download](https://drive.google.com/file/d/1-0PHcFcHdzObvb_--myvaUCKl8scTZn4/view?usp=drive_link) |
+| File Name                         | Size     | Download Link                                                                |
+|:----------------------------------|:--------:|:-----------------------------------------------------------------------------|
+| `primes_and_gammas_scaled.csv.gz` | 266.0 MB | [Download](https://drive.google.com/file/d/1-0PHcFcHdzObvb_--myvaUCKl8scTZn4/view?usp=drive_link) |
 | `primes_and_gammas_scaled.csv`    | 707.3 MB | [Download](https://drive.google.com/file/d/1--D15MzLiDaPjmjMDiYTTT5NUDnA_65P/view?usp=drive_link) |
 | `gamma_10_million.csv`            | 470.8 MB | [Download](https://drive.google.com/file/d/1ArpHvhtZjPJoTl1vMedLDsyaqNGEURaA/view?usp=drive_link) |
+| `prime_energy_distribution_1k.csv`| 113.0 MB | [Download](https://drive.google.com/file/d/1-5fm4-x5zPbIg9IQ9fz7mCcyrTTkiChD/view?usp=drive_link) |
+| `prime_energy_distribution_1m.csv'| 109.2 MB | [Download](https://drive.google.com/file/d/1-Gkbu0SIojzNIzINI8EO7qasTDZnv46c/view?usp=drive_link) |
 | `primes_10_million.csv`           | 173.9 MB | [Download](https://drive.google.com/file/d/1yQw-bAX_HjsM6-R1lexX_EcUafFSc_0w/view?usp=drive_link) |
 
 To use these files, download them to the `data/` directory within the local repository.
