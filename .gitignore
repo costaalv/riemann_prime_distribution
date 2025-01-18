@@ -13,3 +13,5 @@ primes_and_gammas_scaled.csv.gz
 *.tmp
 *.bak
 
+..bfg-report/
+bfg.jar
