@@ -1,0 +1,15 @@
+# Ignorar arquivos grandes
+gamma_10_million.csv
+primes_10_million.csv
+primes_and_gammas_scaled.csv
+
+# Ignorar também todas as versões comprimidas (se aplicável)
+gamma_10_million.csv.gz
+primes_10_million.csv.gz
+primes_and_gammas_scaled.csv.gz
+
+# Ignorar arquivos derivados ou temporários (opcional)
+*.log
+*.tmp
+*.bak
+
